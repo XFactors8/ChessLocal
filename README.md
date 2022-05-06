@@ -1,4 +1,3 @@
 # ChessLocal
-Chess game app playable in a local network
+Chess game app playable in a local network made with Unity
 by Adelin Casez and Brahim Gnaoui
-using C# with the framework monogame
